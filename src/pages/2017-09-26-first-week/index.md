@@ -4,7 +4,7 @@ date: "2017-09-26T18:12:03.284Z"
 path: "/rc-day-one/"
 ---
 
-Today is my second day at Recurse Center and it's been amazing! Here's a little look back at Day 1.
+Today is my second day at the Recurse Center and it's been amazing! Here's a little look back at Day 1.
 
 Wow, the first day was so exciting and so exhausting. Unlike any other day at RC, the yesterday was packed with activities. We spent a lot of time meeting people, finding out what people were working on, and pairing on a sample project. There's a ton of great energy here, and a little of angst, which is just perfect.
 
