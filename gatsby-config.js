@@ -1,7 +1,8 @@
 module.exports = {
+  pathPrefix: `/blog`,
   siteMetadata: {
-    title: "Gatsby Starter Blog",
-    author: "Kyle Mathews",
+    title: "The Daily Recurser",
+    author: "Amelia Riely",
   },
   plugins: [
     {

@@ -17,7 +17,7 @@ class Bio extends React.Component {
       >
         <img
           src={profilePic}
-          alt={`Kyle Mathews`}
+          alt={`Amelia Riely`}
           style={{
             float: 'left',
             marginRight: rhythm(1 / 4),
@@ -26,10 +26,9 @@ class Bio extends React.Component {
             height: rhythm(2),
           }}
         />
-        Written by <strong>Kyle Mathews</strong> who lives and works in San
-        Francisco building useful things.{' '}
-        <a href="https://twitter.com/kylemathews">
-          You should follow him on Twitter
+        Short posts written by <strong>Amelia Riely</strong> from <a href="https://Recurse.com">Recurse Center</a>.{' '}
+        <a href="https://twitter.com/ameliariely">
+          You should follow her on Twitter
         </a>
       </p>
     )
